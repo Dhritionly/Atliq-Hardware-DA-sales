@@ -1,4 +1,0 @@
-#                                                       Atliq Hardware Sales  
-
-#            Report      
-
