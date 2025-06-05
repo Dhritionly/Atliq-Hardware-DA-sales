@@ -60,9 +60,9 @@ This multi-faceted approach aims to uncover the root causes of the declining mar
 
 ### Installation Guide MySql \- [Link](https://youtu.be/-ceKr-nEZag?si=aMkTTdZ6FVZ7FIrh)
 
-`After Installation you can access the dataset in MySQL and use your command to verify the data from the dashboard.`
+`After Installation you can access the dataset in MySQL Workbench.`
 
 ### Installation Guide PowerBI \- [Link](https://youtu.be/OTV4qhcP_8s?si=nkRuLIzhZdHhiCHw)
 
-`After installation you can directly open the  “.pbix ” file and use the dashboard and its features.`
+`After installation you can directly open the  “.pbix ” file and use the Dashboard and its features.`
 
